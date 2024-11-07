@@ -10,4 +10,5 @@ This automated system uses a water pump to irrigate the soil of a house plant. W
 - 4 Foot Vinyl Tube
 - Relay
 - Encoder
-## Completed System
+## Water Pump Curcuit View
+![IMG_4791](https://github.com/user-attachments/assets/a2793a49-017d-4e47-a367-ced17c5d5dc5)
